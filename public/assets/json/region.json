@@ -1,0 +1,1264 @@
+{
+    "code": 200,
+    "message": "Success",
+    "result": {
+        "items": [
+            {
+                "en_name": "Mongolia",
+                "full_name": "Монгол Улс",
+                "id": 1
+            },
+            {
+                "en_name": "Russian Federation",
+                "full_name": "Оросын Холбооны Улс",
+                "id": 2
+            },
+            {
+                "en_name": "People's Republic of China",
+                "full_name": "Бүгд Найрамдах Хятад Ард Улс",
+                "id": 3
+            },
+            {
+                "en_name": "Islamic Republic of Afghanistan",
+                "full_name": "Исламын Бүгд Найрамдах Афганистан Улс",
+                "id": 4
+            },
+            {
+                "en_name": "Republic of Korea",
+                "full_name": "Бүгд Найрамдах Солонгос Улс",
+                "id": 5
+            },
+            {
+                "en_name": "Republic of Belarus",
+                "full_name": "Бүгд Найрамдах Беларусь Улс",
+                "id": 6
+            },
+            {
+                "en_name": "United States of America",
+                "full_name": "Америкийн Нэгдсэн Улс",
+                "id": 7
+            },
+            {
+                "en_name": "Republic of Albania",
+                "full_name": "Бүгд Найрамдах Албани Улс",
+                "id": 8
+            },
+            {
+                "en_name": "Japan",
+                "full_name": "Япон Улс",
+                "id": 9
+            },
+            {
+                "en_name": "Antarctica",
+                "full_name": "Антарктид",
+                "id": 10
+            },
+            {
+                "en_name": "Federal Republic of Germany",
+                "full_name": "Холбооны Бүгд Найрамдах Герман Улс",
+                "id": 11
+            },
+            {
+                "en_name": "People's Democratic Republic of Algeria",
+                "full_name": "Бүгд Найрамдах Ардчилсан Алжир Ард Улс",
+                "id": 12
+            },
+            {
+                "en_name": "Republic of Turkey",
+                "full_name": "Бүгд Найрамдах Турк Улс",
+                "id": 13
+            },
+            {
+                "en_name": "Commonwealth of Australia",
+                "full_name": "Австралийн Холбооны Улс",
+                "id": 14
+            },
+            {
+                "en_name": "Republic of France",
+                "full_name": "Бүгд Найрамдах Франц Улс",
+                "id": 15
+            },
+            {
+                "en_name": "American Samoa",
+                "full_name": "Америкийн Самоа Улс",
+                "id": 16
+            },
+            {
+                "en_name": "Ukraine",
+                "full_name": "Украин Улс",
+                "id": 17
+            },
+            {
+                "en_name": "Republic of India",
+                "full_name": "Бүгд Найрамдах Энэтхэг Улс",
+                "id": 18
+            },
+            {
+                "en_name": "Canada",
+                "full_name": "Канад Улс",
+                "id": 19
+            },
+            {
+                "en_name": "Principality of Andorra",
+                "full_name": "Андоррын Хант Улс",
+                "id": 20
+            },
+            {
+                "en_name": "People's Republic of China, Hong Kong Special Administrative Region",
+                "full_name": "Бүгд Найрамдах Хятад Ард Улсын Засаг Захиргааны Онцгой Бүс Хонконг",
+                "id": 21
+            },
+            {
+                "en_name": "Kingdom of Thailand",
+                "full_name": "Тайландын Хаант Улс",
+                "id": 22
+            },
+            {
+                "en_name": "Republic of Angola",
+                "full_name": "Бүгд Найрамдах Ангол Улс",
+                "id": 24
+            },
+            {
+                "en_name": "Antigua and Barbuda",
+                "full_name": "Антигуа ба Барбуда Улс",
+                "id": 28
+            },
+            {
+                "en_name": "Republic of Azerbaijan",
+                "full_name": "Бүгд Найрамдах Азербайжан Улс",
+                "id": 31
+            },
+            {
+                "en_name": "Republic of Argentina",
+                "full_name": "Бүгд Найрамдах Аргентин Улс",
+                "id": 32
+            },
+            {
+                "en_name": "Republic of Austria",
+                "full_name": "Бүгд Найрамдах Австри Улс",
+                "id": 40
+            },
+            {
+                "en_name": "Commonwealth of the Bahamas",
+                "full_name": "Бахамын Хамтын Нөхөрлөлийн Улс",
+                "id": 44
+            },
+            {
+                "en_name": "Kingdom of Bahrain",
+                "full_name": "Бахрейны Хаант Улс",
+                "id": 48
+            },
+            {
+                "en_name": "People's Republic of Bangladesh",
+                "full_name": "Бүгд Найрамдах Бангладеш Ард Улс",
+                "id": 50
+            },
+            {
+                "en_name": "Republic of Armenia",
+                "full_name": "Бүгд Найрамдах Армени Улс",
+                "id": 51
+            },
+            {
+                "en_name": "Barbados",
+                "full_name": "Барбадос Улс",
+                "id": 52
+            },
+            {
+                "en_name": "Kingdom of Belgium",
+                "full_name": "Бельгийн Хаант Улс",
+                "id": 56
+            },
+            {
+                "en_name": "Bermuda",
+                "full_name": "Бермудын Арал",
+                "id": 60
+            },
+            {
+                "en_name": "Kingdom of Bhutan",
+                "full_name": "Бутаны Хаант Улс",
+                "id": 64
+            },
+            {
+                "en_name": "Plurinational State of Bolivia",
+                "full_name": "Олон Үндэстний Боливи Улс",
+                "id": 68
+            },
+            {
+                "en_name": "Bosnia and Herzegovina",
+                "full_name": "Босни-Херцеговин Улс",
+                "id": 70
+            },
+            {
+                "en_name": "Republic of Botswana",
+                "full_name": "Бүгд Найрамдах Ботсвана Улс",
+                "id": 72
+            },
+            {
+                "en_name": "Bouvet Island",
+                "full_name": "Буве арал",
+                "id": 74
+            },
+            {
+                "en_name": "Federative Republic of Brazil",
+                "full_name": "Холбооны Бүгд Найрамдах Бразил Улс",
+                "id": 76
+            },
+            {
+                "en_name": "Belize",
+                "full_name": "Белиз Улс",
+                "id": 84
+            },
+            {
+                "en_name": "British Indian Ocean Territory",
+                "full_name": "Британийн Энэтхэгийн Далай Дахь Нутаг Дэвсгэр",
+                "id": 86
+            },
+            {
+                "en_name": "Solomon Islands",
+                "full_name": "Соломоны Арлуудын Улс",
+                "id": 90
+            },
+            {
+                "en_name": "Virgin Islands, British",
+                "full_name": "Виржиний Арлууд (Британи)",
+                "id": 92
+            },
+            {
+                "en_name": "Negara Brunei Darussalam",
+                "full_name": "Бруней Даруссалам Улс",
+                "id": 96
+            },
+            {
+                "en_name": "Republic of Bulgaria",
+                "full_name": "Бүгд Найрамдах Болгар Улс",
+                "id": 100
+            },
+            {
+                "en_name": "Republic of the Union of Myanmar",
+                "full_name": "Мьянмарын Холбооны Бүгд Найрамдах Улс",
+                "id": 104
+            },
+            {
+                "en_name": "Republic of Burundi",
+                "full_name": "Бүгд Найрамдах Бурунди Улс",
+                "id": 108
+            },
+            {
+                "en_name": "Kingdom of Cambodia",
+                "full_name": "Камбожийн Хаант Улс",
+                "id": 116
+            },
+            {
+                "en_name": "Republic of Cameroon",
+                "full_name": "Бүгд Найрамдах Камерун Улс",
+                "id": 120
+            },
+            {
+                "en_name": "Republic of Cabo Verde",
+                "full_name": "Бүгд Найрамдах Кабо-Верде Улс",
+                "id": 132
+            },
+            {
+                "en_name": "Cayman Islands",
+                "full_name": "Кайманын Арлууд",
+                "id": 136
+            },
+            {
+                "en_name": "Central African Republic",
+                "full_name": "Төв Африкийн Бүгд Найрамдах Улс",
+                "id": 140
+            },
+            {
+                "en_name": "Democratic Socialist Republic of Sri Lanka",
+                "full_name": "Бүгд Найрамдах Ардчилсан Социалист Шри Ланка Улс",
+                "id": 144
+            },
+            {
+                "en_name": "Republic of Chad",
+                "full_name": "Бүгд Найрамдах Чад Улс",
+                "id": 148
+            },
+            {
+                "en_name": "Republic of Chile",
+                "full_name": "Бүгд Найрамдах Чили Улс",
+                "id": 152
+            },
+            {
+                "en_name": "People's Republic of China, Taiwan, Province",
+                "full_name": "Бүгд Найрамдах Хятад Ард Улс, Тайван",
+                "id": 158
+            },
+            {
+                "en_name": "Christmas Island",
+                "full_name": "Зул Сарын Арал",
+                "id": 162
+            },
+            {
+                "en_name": "Cocos (Keeling) Islands",
+                "full_name": "Кокосын Арлууд",
+                "id": 166
+            },
+            {
+                "en_name": "Republic of Colombia",
+                "full_name": "Бүгд Найрамдах Колумби Улс",
+                "id": 170
+            },
+            {
+                "en_name": "Union of the Comoros",
+                "full_name": "Коморосын Холбооны Улс",
+                "id": 174
+            },
+            {
+                "en_name": "Mayotte",
+                "full_name": "Маётти Улс",
+                "id": 175
+            },
+            {
+                "en_name": "Republic of the Congo",
+                "full_name": "Бүгд Найрамдах Конго Улс",
+                "id": 178
+            },
+            {
+                "en_name": "Democratic Republic of the Congo",
+                "full_name": "Бүгд Найрамдах Ардчилсан Конго Улс",
+                "id": 180
+            },
+            {
+                "en_name": "Cook Islands",
+                "full_name": "Кукын Арлууд",
+                "id": 184
+            },
+            {
+                "en_name": "Republic of Costa Rica",
+                "full_name": "Бүгд Найрамдах Коста-Рика Улс",
+                "id": 188
+            },
+            {
+                "en_name": "Republic of Croatia",
+                "full_name": "Бүгд Найрамдах Хорват Улс",
+                "id": 191
+            },
+            {
+                "en_name": "Republic of Cuba",
+                "full_name": "Бүгд Найрамдах Куба Улс",
+                "id": 192
+            },
+            {
+                "en_name": "Republic of Cyprus",
+                "full_name": "Бүгд Найрамдах Кипр Улс",
+                "id": 196
+            },
+            {
+                "en_name": "Czech Republic",
+                "full_name": "Бүгд Найрамдах Чех Улс",
+                "id": 203
+            },
+            {
+                "en_name": "Republic of Benin",
+                "full_name": "Бүгд Найрамдах Бенин Улс",
+                "id": 204
+            },
+            {
+                "en_name": "Kingdom of Denmark",
+                "full_name": "Данийн Хаант Улс",
+                "id": 208
+            },
+            {
+                "en_name": "Commonwealth of Dominica",
+                "full_name": "Доминикийн Хамтын Нөхөрлөлийн Улс",
+                "id": 212
+            },
+            {
+                "en_name": "Dominican Republic",
+                "full_name": "Доминиканы Бүгд Найрамдах Улс",
+                "id": 214
+            },
+            {
+                "en_name": "Republic of Ecuador",
+                "full_name": "Бүгд Найрамдах Эквадор Улс",
+                "id": 218
+            },
+            {
+                "en_name": "Republic of El Salvador",
+                "full_name": "Бүгд Найрамдах Эль Сальвадор Улс",
+                "id": 222
+            },
+            {
+                "en_name": "Republic of Equatorial Guinea",
+                "full_name": "Экваторын Гвинейн Бүгд Найрамдах Улс",
+                "id": 226
+            },
+            {
+                "en_name": "Federal Democratic Republic of Ethiopia",
+                "full_name": "Холбооны Бүгд Найрамдах Ардчилсан Этиоп Улс",
+                "id": 231
+            },
+            {
+                "en_name": "State of Eritrea",
+                "full_name": "Эритрей Улс",
+                "id": 232
+            },
+            {
+                "en_name": "Republic of Estonia",
+                "full_name": "Бүгд Найрамдах Эстони Улс",
+                "id": 233
+            },
+            {
+                "en_name": "Faroe Islands",
+                "full_name": "Фарер Арлууд",
+                "id": 234
+            },
+            {
+                "en_name": "Falkland Islands (Malvinas)",
+                "full_name": "Фолклендийн Арлууд (Мальвиний)",
+                "id": 238
+            },
+            {
+                "en_name": "South Georgia and the South Sandwich Islands",
+                "full_name": "Өмнөд Жорж ба Сендвичийн Арлууд",
+                "id": 239
+            },
+            {
+                "en_name": "Republic of Fiji",
+                "full_name": "Бүгд Найрамдах Фижи Улс",
+                "id": 242
+            },
+            {
+                "en_name": "Republic of Finland",
+                "full_name": "Бүгд Найрамдах Финланд Улс",
+                "id": 246
+            },
+            {
+                "en_name": "Aland Islands",
+                "full_name": "Аландын арлууд",
+                "id": 248
+            },
+            {
+                "en_name": "French Guiana",
+                "full_name": "Францын Гвиана Улс",
+                "id": 254
+            },
+            {
+                "en_name": "French Polynesia",
+                "full_name": "Францын Полинез",
+                "id": 258
+            },
+            {
+                "en_name": "French Southern Territories",
+                "full_name": "Францын Өмнөд Нутаг Дэвсгэр",
+                "id": 260
+            },
+            {
+                "en_name": "Republic of Djibouti",
+                "full_name": "Бүгд Найрамдах Жибути Улс",
+                "id": 262
+            },
+            {
+                "en_name": "Gabonese Republic (Gabon)",
+                "full_name": "Бүгд Найрамдах Габон Улс",
+                "id": 266
+            },
+            {
+                "en_name": "Georgia",
+                "full_name": "Гүрж Улс",
+                "id": 268
+            },
+            {
+                "en_name": "Islamic Republic of the Gambia",
+                "full_name": "Бүгд Найрамдах Гамби Улс",
+                "id": 270
+            },
+            {
+                "en_name": "State of Palestine",
+                "full_name": "Палестин Улс",
+                "id": 275
+            },
+            {
+                "en_name": "Republic of Ghana",
+                "full_name": "Бүгд Найрамдах Гана Улс",
+                "id": 288
+            },
+            {
+                "en_name": "Gibraltar",
+                "full_name": "Гибралтар Улс",
+                "id": 292
+            },
+            {
+                "en_name": "Republic of Kiribati",
+                "full_name": "Бүгд Найрамдах Кирибати Улс",
+                "id": 296
+            },
+            {
+                "en_name": "Hellenic Republic (Greece)",
+                "full_name": "Бүгд Найрамдах Грек Улс",
+                "id": 300
+            },
+            {
+                "en_name": "Greenland",
+                "full_name": "Гренланд Улс",
+                "id": 304
+            },
+            {
+                "en_name": "Grenada",
+                "full_name": "Гренада Улс",
+                "id": 308
+            },
+            {
+                "en_name": "Guadeloupe",
+                "full_name": "Гваделупа Улс",
+                "id": 312
+            },
+            {
+                "en_name": "Guam",
+                "full_name": "Гуам Улс",
+                "id": 316
+            },
+            {
+                "en_name": "Republic of Guatemala",
+                "full_name": "Бүгд Найрамдах Гватемал Улс",
+                "id": 320
+            },
+            {
+                "en_name": "Republic of Guinea",
+                "full_name": "Бүгд Найрамдах Гвиней Улс",
+                "id": 324
+            },
+            {
+                "en_name": "Republic of Guyana",
+                "full_name": "Бүгд Найрамдах Гайана Улс",
+                "id": 328
+            },
+            {
+                "en_name": "Republic of Haiti",
+                "full_name": "Бүгд Найрамдах Хаити Улс",
+                "id": 332
+            },
+            {
+                "en_name": "Heard Island and McDonald Islands",
+                "full_name": "Херд ба Макдональдын Арлууд",
+                "id": 334
+            },
+            {
+                "en_name": "Holy See (Vatican City State)",
+                "full_name": "Ватикан улс",
+                "id": 336
+            },
+            {
+                "en_name": "Republic of Honduras",
+                "full_name": "Бүгд Найрамдах Хондурас Улс",
+                "id": 340
+            },
+            {
+                "en_name": "Hungary",
+                "full_name": "Унгар Улс",
+                "id": 348
+            },
+            {
+                "en_name": "Republic of Iceland",
+                "full_name": "Бүгд Найрамдах Исланд Улс",
+                "id": 352
+            },
+            {
+                "en_name": "Republic of Indonesia",
+                "full_name": "Бүгд Найрамдах Индонез Улс",
+                "id": 360
+            },
+            {
+                "en_name": "Islamic Republic of Iran",
+                "full_name": "Исламын Бүгд Найрамдах Иран Улс",
+                "id": 364
+            },
+            {
+                "en_name": "Republic of Iraq",
+                "full_name": "Бүгд Найрамдах Ирак Улс",
+                "id": 368
+            },
+            {
+                "en_name": "Ireland",
+                "full_name": "Ирланд Улс",
+                "id": 372
+            },
+            {
+                "en_name": "State of Israel",
+                "full_name": "Израил Улс",
+                "id": 376
+            },
+            {
+                "en_name": "Republic of Italy",
+                "full_name": "Бүгд Найрамдах Итали Улс",
+                "id": 380
+            },
+            {
+                "en_name": "Republic of Cote d'Ivoire",
+                "full_name": "Бүгд Найрамдах Кот д'Ивуар Улс",
+                "id": 384
+            },
+            {
+                "en_name": "Jamaica",
+                "full_name": "Ямайка Улс",
+                "id": 388
+            },
+            {
+                "en_name": "Republic of Kazakhstan",
+                "full_name": "Бүгд Найрамдах Казахстан Улс",
+                "id": 398
+            },
+            {
+                "en_name": "Hashemite Kingdom of Jordan",
+                "full_name": "Йорданы Хашимитын Хаант Улс",
+                "id": 400
+            },
+            {
+                "en_name": "Republic of Kenya",
+                "full_name": "Бүгд Найрамдах Кени Улс",
+                "id": 404
+            },
+            {
+                "en_name": "Democratic People's Republic of Korea",
+                "full_name": "Бүгд Найрамдах Ардчилсан Солонгос Ард Улс",
+                "id": 408
+            },
+            {
+                "en_name": "State of Kuwait",
+                "full_name": "Кувейт Улс",
+                "id": 414
+            },
+            {
+                "en_name": "Kyrgyz Republic (Kyrgyzstan)",
+                "full_name": "Бүгд Найрамдах Киргиз Улс",
+                "id": 417
+            },
+            {
+                "en_name": "Lao People's Democratic Republic",
+                "full_name": "Бүгд Найрамдах Ардчилсан Лаос Ард Улс",
+                "id": 418
+            },
+            {
+                "en_name": "Republic of Lebanon",
+                "full_name": "Бүгд Найрамдах Ливан Улс",
+                "id": 422
+            },
+            {
+                "en_name": "Kingdom of Lesotho",
+                "full_name": "Лесотогийн Хаант Улс",
+                "id": 426
+            },
+            {
+                "en_name": "Republic of Latvia",
+                "full_name": "Бүгд Найрамдах Латви Улс",
+                "id": 428
+            },
+            {
+                "en_name": "Republic of Liberia",
+                "full_name": "Бүгд Найрамдах Либери Улс",
+                "id": 430
+            },
+            {
+                "en_name": "Libya",
+                "full_name": "Ливи Улс",
+                "id": 434
+            },
+            {
+                "en_name": "Principality of Liechtenstein",
+                "full_name": "Лихтенштайны Хант Улс",
+                "id": 438
+            },
+            {
+                "en_name": "Republic of Lithuania",
+                "full_name": "Бүгд Найрамдах Литва Улс",
+                "id": 440
+            },
+            {
+                "en_name": "Grand Duchy of Luxembourg",
+                "full_name": "Люксембургийн Их Гүнт Улс",
+                "id": 442
+            },
+            {
+                "en_name": "People's Republic of China, Macao Special Administrative Region",
+                "full_name": "Бүгд Найрамдах Хятад Ард Улсын Засаг Захиргааны Онцгой Бүс Макао",
+                "id": 446
+            },
+            {
+                "en_name": "Republic of Madagascar",
+                "full_name": "Бүгд Найрамдах Мадагаскар Улс",
+                "id": 450
+            },
+            {
+                "en_name": "Republic of Malawi",
+                "full_name": "Бүгд Найрамдах Малави Улс",
+                "id": 454
+            },
+            {
+                "en_name": "Malaysia",
+                "full_name": "Малайз Улс",
+                "id": 458
+            },
+            {
+                "en_name": "Republic of Maldives",
+                "full_name": "Бүгд Найрамдах Мальдив Улс",
+                "id": 462
+            },
+            {
+                "en_name": "Republic of Mali",
+                "full_name": "Бүгд Найрамдах Мали Улс",
+                "id": 466
+            },
+            {
+                "en_name": "Republic of Malta",
+                "full_name": "Бүгд Найрамдах Мальта Улс",
+                "id": 470
+            },
+            {
+                "en_name": "Martinique",
+                "full_name": "Мартиник Улс",
+                "id": 474
+            },
+            {
+                "en_name": "Islamic Republic of Mauritania",
+                "full_name": "Исламын Бүгд Найрамдах Мавритани Улс",
+                "id": 478
+            },
+            {
+                "en_name": "Republic of Mauritius",
+                "full_name": "Бүгд Найрамдах Маврики Улс",
+                "id": 480
+            },
+            {
+                "en_name": "United Mexican States (Mexico)",
+                "full_name": "Мексикийн Нэгдсэн Улс",
+                "id": 484
+            },
+            {
+                "en_name": "Principality of Monaco",
+                "full_name": "Монакогийн Хант Улс",
+                "id": 492
+            },
+            {
+                "en_name": "Republic of Moldova",
+                "full_name": "Бүгд Найрамдах Молдова Улс",
+                "id": 498
+            },
+            {
+                "en_name": "Montenegro",
+                "full_name": "Монтенегро Улс",
+                "id": 499
+            },
+            {
+                "en_name": "Montserrat",
+                "full_name": "Монтсеррат Улс",
+                "id": 500
+            },
+            {
+                "en_name": "Kingdom of Morocco",
+                "full_name": "Мароккогийн Хаант Улс",
+                "id": 504
+            },
+            {
+                "en_name": "Republic of Mozambique",
+                "full_name": "Бүгд Найрамдах Мозамбик Улс",
+                "id": 508
+            },
+            {
+                "en_name": "Sultanate of Oman",
+                "full_name": "Оманы Султант Улс",
+                "id": 512
+            },
+            {
+                "en_name": "Republic of Namibia",
+                "full_name": "Бүгд Найрамдах Намиби Улс",
+                "id": 516
+            },
+            {
+                "en_name": "Republic of Nauru",
+                "full_name": "Бүгд Найрамдах Науру Улс",
+                "id": 520
+            },
+            {
+                "en_name": "Federal Democratic Republic of Nepal",
+                "full_name": "Холбооны Бүгд Найрамдах Ардчилсан Балба Улс",
+                "id": 524
+            },
+            {
+                "en_name": "Kingdom of Netherlands",
+                "full_name": "Нидерландын Хаант Улс",
+                "id": 528
+            },
+            {
+                "en_name": "Curacao",
+                "full_name": "Курчао",
+                "id": 531
+            },
+            {
+                "en_name": "Aruba",
+                "full_name": "Аруба Улс",
+                "id": 533
+            },
+            {
+                "en_name": "Sint Maarten (Dutch part)",
+                "full_name": "Сент Мартин Улс (Герман)",
+                "id": 534
+            },
+            {
+                "en_name": "Bonaire, Sint Eustatius, and Saba",
+                "full_name": "Бониа, Синт-Эттатиус, Саба",
+                "id": 535
+            },
+            {
+                "en_name": "New Caledonia",
+                "full_name": "Шинэ Каледони Улс",
+                "id": 540
+            },
+            {
+                "en_name": "Republic of Vanuatu",
+                "full_name": "Бүгд Найрамдах Вануату Улс",
+                "id": 548
+            },
+            {
+                "en_name": "New Zealand",
+                "full_name": "Шинэ Зеланд Улс",
+                "id": 554
+            },
+            {
+                "en_name": "Republic of Nicaragua",
+                "full_name": "Бүгд Найрамдах Никарагуа Улс",
+                "id": 558
+            },
+            {
+                "en_name": "Republic of the Niger",
+                "full_name": "Бүгд Найрамдах Нижер Улс",
+                "id": 562
+            },
+            {
+                "en_name": "Federal Republic of Nigeria",
+                "full_name": "Холбооны Бүгд Найрамдах Нигери Улс",
+                "id": 566
+            },
+            {
+                "en_name": "Niue",
+                "full_name": "Ниуэ Улс",
+                "id": 570
+            },
+            {
+                "en_name": "Norfolk Island",
+                "full_name": "Норфолк Арал",
+                "id": 574
+            },
+            {
+                "en_name": "Kingdom of Norway",
+                "full_name": "Норвегийн Хаант Улс",
+                "id": 578
+            },
+            {
+                "en_name": "Northern Mariana Islands",
+                "full_name": "Хойд Марианын Арлууд",
+                "id": 580
+            },
+            {
+                "en_name": "United States Minor Outlying Islands",
+                "full_name": "Минорын Арлын Нэгдсэн Улс",
+                "id": 581
+            },
+            {
+                "en_name": "Federated States of Micronesia",
+                "full_name": "Холбооны Микронез Улс",
+                "id": 583
+            },
+            {
+                "en_name": "Republic of the Marshall Islands",
+                "full_name": "Маршаллын Арлуудын Бүгд Найрамдах Улс",
+                "id": 584
+            },
+            {
+                "en_name": "Republic of Palau",
+                "full_name": "Бүгд Найрамдах Палау Улс",
+                "id": 585
+            },
+            {
+                "en_name": "Islamic Republic of Pakistan",
+                "full_name": "Исламын Бүгд Найрамдах Пакистан Улс",
+                "id": 586
+            },
+            {
+                "en_name": "Republic of Panama",
+                "full_name": "Бүгд Найрамдах Панам Улс",
+                "id": 591
+            },
+            {
+                "en_name": "Independent State of Papua New Guinea",
+                "full_name": "Папуа Шинэ Гвиней Улс",
+                "id": 598
+            },
+            {
+                "en_name": "Republic of Paraguay",
+                "full_name": "Бүгд Найрамдах Парагвай Улс",
+                "id": 600
+            },
+            {
+                "en_name": "Republic of Peru",
+                "full_name": "Бүгд Найрамдах Перу Улс",
+                "id": 604
+            },
+            {
+                "en_name": "Republic of the Philippines",
+                "full_name": "Бүгд Найрамдах Филиппин Улс",
+                "id": 608
+            },
+            {
+                "en_name": "Pitcairn",
+                "full_name": "Питкерн Улс",
+                "id": 612
+            },
+            {
+                "en_name": "Republic of Poland",
+                "full_name": "Бүгд Найрамдах Польш Улс",
+                "id": 616
+            },
+            {
+                "en_name": "Republic of Portugal",
+                "full_name": "Бүгд Найрамдах Португал Улс",
+                "id": 620
+            },
+            {
+                "en_name": "Republic of Guinea-Bissau",
+                "full_name": "Бүгд Найрамдах Гвиней-Бисау Улс",
+                "id": 624
+            },
+            {
+                "en_name": "Democratic Republic of Timor-Leste",
+                "full_name": "Бүгд Найрамдах Ардчилсан Зүүн Тимор Улс",
+                "id": 626
+            },
+            {
+                "en_name": "Puerto Rico",
+                "full_name": "Пуэрто Рико Улс",
+                "id": 630
+            },
+            {
+                "en_name": "State of Qatar",
+                "full_name": "Катар Улс",
+                "id": 634
+            },
+            {
+                "en_name": "Reunion",
+                "full_name": "Реюньон Улс",
+                "id": 638
+            },
+            {
+                "en_name": "Romania",
+                "full_name": "Румын Улс",
+                "id": 642
+            },
+            {
+                "en_name": "Republic of Rwanda",
+                "full_name": "Бүгд Найрамдах Руанда Улс",
+                "id": 646
+            },
+            {
+                "en_name": "Saint Barthelemy",
+                "full_name": "Сент Бартелеми",
+                "id": 652
+            },
+            {
+                "en_name": "Saint Helena",
+                "full_name": "Сент Елена",
+                "id": 654
+            },
+            {
+                "en_name": "Saint Kitts and Nevis",
+                "full_name": "Сент Кристофер ба Невисийн Холбооны Улс",
+                "id": 659
+            },
+            {
+                "en_name": "Anguilla",
+                "full_name": "Ангилья Улс",
+                "id": 660
+            },
+            {
+                "en_name": "Saint Lucia",
+                "full_name": "Сент Люсиа Улс",
+                "id": 662
+            },
+            {
+                "en_name": "Saint Martin (French part)",
+                "full_name": "Сент Мартин Улс (Франц)",
+                "id": 663
+            },
+            {
+                "en_name": "Saint Pierre and Miquelon",
+                "full_name": "Сент Пьер ба Микелон Улс",
+                "id": 666
+            },
+            {
+                "en_name": "Saint Vincent and the Grenadines",
+                "full_name": "Сент-Винсент ба Гренадин Улс",
+                "id": 670
+            },
+            {
+                "en_name": "Republic of San Marino",
+                "full_name": "Бүгд Найрамдах Сан Марино Улс",
+                "id": 674
+            },
+            {
+                "en_name": "Democratic Republic of Sao Tome and Principe",
+                "full_name": "Бүгд Найрамдах Ардчилсан Сан-Томе ба Принсипи Улс",
+                "id": 678
+            },
+            {
+                "en_name": "Kingdom of Saudi Arabia",
+                "full_name": "Саудын Арабын Хаант Улс",
+                "id": 682
+            },
+            {
+                "en_name": "Republic of Senegal",
+                "full_name": "Бүгд Найрамдах Сенегал Улс",
+                "id": 686
+            },
+            {
+                "en_name": "Republic of Serbia",
+                "full_name": "Бүгд Найрамдах Серби Улс",
+                "id": 688
+            },
+            {
+                "en_name": "Republic of Seychelles",
+                "full_name": "Сейшелийн Арлуудын Бүгд Найрамдах Улс",
+                "id": 690
+            },
+            {
+                "en_name": "Republic of Sierra Leone",
+                "full_name": "Бүгд Найрамдах Сьерра Леон Улс",
+                "id": 694
+            },
+            {
+                "en_name": "Republic of Singapore",
+                "full_name": "Бүгд Найрамдах Сингапур Улс",
+                "id": 702
+            },
+            {
+                "en_name": "Slovak Republic",
+                "full_name": "Бүгд Найрамдах Словак Улс",
+                "id": 703
+            },
+            {
+                "en_name": "Socialist Republic of Viet Nam",
+                "full_name": "Бүгд Найрамдах Социалист Вьетнам Улс",
+                "id": 704
+            },
+            {
+                "en_name": "Republic of Slovenia",
+                "full_name": "Бүгд Найрамдах Словени Улс",
+                "id": 705
+            },
+            {
+                "en_name": "Federal Republic of Somalia",
+                "full_name": "Холбооны Бүгд Найрамдах Сомали Улс",
+                "id": 706
+            },
+            {
+                "en_name": "Republic of South Africa",
+                "full_name": "Өмнөд Африкийн Бүгд Найрамдах Улс",
+                "id": 710
+            },
+            {
+                "en_name": "Republic of Zimbabwe",
+                "full_name": "Бүгд Найрамдах Зимбабве Улс",
+                "id": 716
+            },
+            {
+                "en_name": "Kingdom of Spain",
+                "full_name": "Испанийн Хаант Улс",
+                "id": 724
+            },
+            {
+                "en_name": "Republic of South Sudan",
+                "full_name": "Бүгд Найрамдах Өмнөд Судан Улс",
+                "id": 728
+            },
+            {
+                "en_name": "Republic of the Sudan",
+                "full_name": "Бүгд Найрамдах Судан Улс",
+                "id": 729
+            },
+            {
+                "en_name": "Western Sahara",
+                "full_name": "Баруун Сахар",
+                "id": 732
+            },
+            {
+                "en_name": "Republic of Suriname",
+                "full_name": "Бүгд Найрамдах Суринам Улс",
+                "id": 740
+            },
+            {
+                "en_name": "Svalbard and Jan Mayen",
+                "full_name": "Шпицберген ба Ян-Майен Улс",
+                "id": 744
+            },
+            {
+                "en_name": "Kingdom of Swaziland",
+                "full_name": "Эсватинийн Хаант Улс",
+                "id": 748
+            },
+            {
+                "en_name": "Kingdom of Sweden",
+                "full_name": "Шведийн Хаант Улс",
+                "id": 752
+            },
+            {
+                "en_name": "Swiss Confederation",
+                "full_name": "Швейцарын Холбооны Улс",
+                "id": 756
+            },
+            {
+                "en_name": "Syrian Arab Republic",
+                "full_name": "Арабын Бүгд Найрамдах Сири Улс",
+                "id": 760
+            },
+            {
+                "en_name": "Republic of Tajikistan",
+                "full_name": "Бүгд Найрамдах Тажикистан Улс",
+                "id": 762
+            },
+            {
+                "en_name": "Republic of Togo",
+                "full_name": "Бүгд Найрамдах Того Улс",
+                "id": 768
+            },
+            {
+                "en_name": "Tokelau",
+                "full_name": "Токилау Улс",
+                "id": 772
+            },
+            {
+                "en_name": "Kingdom of Tonga",
+                "full_name": "Тонгагийн Хаант Улс",
+                "id": 776
+            },
+            {
+                "en_name": "Republic of Trinidad and Tobago",
+                "full_name": "Бүгд Найрамдах Тринидад ба Тобаго Улс",
+                "id": 780
+            },
+            {
+                "en_name": "United Arab Emirates",
+                "full_name": "Арабын Нэгдсэн Эмират Улс",
+                "id": 784
+            },
+            {
+                "en_name": "Republic of Tunisia",
+                "full_name": "Бүгд Найрамдах Тунис Улс",
+                "id": 788
+            },
+            {
+                "en_name": "Turkmenistan",
+                "full_name": "Туркменистан Улс",
+                "id": 795
+            },
+            {
+                "en_name": "Turks and Caicos Islands",
+                "full_name": "Туркс ба Кайкос Арлууд",
+                "id": 796
+            },
+            {
+                "en_name": "Tuvalu",
+                "full_name": "Тувалу Улс",
+                "id": 798
+            },
+            {
+                "en_name": "Republic of Uganda",
+                "full_name": "Бүгд Найрамдах Уганда Улс",
+                "id": 800
+            },
+            {
+                "en_name": "Ukraine",
+                "full_name": "Украин Улс",
+                "id": 804
+            },
+            {
+                "en_name": "The Former Yugoslav Republic of Macedonia",
+                "full_name": "Бүгд Найрамдах Умард Македон Улс",
+                "id": 807
+            },
+            {
+                "en_name": "Arab Republic of Egypt",
+                "full_name": "Арабын Бүгд Найрамдах Египет Улс",
+                "id": 818
+            },
+            {
+                "en_name": "United Kingdom of Great Britain and Northern Ireland",
+                "full_name": "Их Британи, Умард Ирландын Нэгдсэн Хаант Улс",
+                "id": 826
+            },
+            {
+                "en_name": "Guernsey (includes the islands of Alderney, Brecqhou, Burhou, Herm, Jethou, Lihou, Little Sark, and Sark)",
+                "full_name": "Гернси",
+                "id": 831
+            },
+            {
+                "en_name": "Jersey",
+                "full_name": "Жерси",
+                "id": 832
+            },
+            {
+                "en_name": "Isle of Man",
+                "full_name": "Мэн арал",
+                "id": 833
+            },
+            {
+                "en_name": "United Republic of Tanzania",
+                "full_name": "Бүгд Найрамдах Нэгдсэн Танзани Улс",
+                "id": 834
+            },
+            {
+                "en_name": "Virgin Islands, U.S",
+                "full_name": "Виржиний Арлууд (Америк)",
+                "id": 850
+            },
+            {
+                "en_name": "Burkina Faso",
+                "full_name": "Буркина Фасо Улс",
+                "id": 854
+            },
+            {
+                "en_name": "Oriental Republic of Uruguay",
+                "full_name": "Дорнын Бүгд Найрамдах Уругвай Улс",
+                "id": 858
+            },
+            {
+                "en_name": "Republic of Uzbekistan",
+                "full_name": "Бүгд Найрамдах Узбекистан Улс",
+                "id": 860
+            },
+            {
+                "en_name": "Bolivarian Republic of Venezuela",
+                "full_name": "Боливарын Бүгд Найрамдах Венесуэл Улс",
+                "id": 862
+            },
+            {
+                "en_name": "Wallis and Futuna",
+                "full_name": "Уоллис ба Футуна",
+                "id": 876
+            },
+            {
+                "en_name": "Independent State of Samoa",
+                "full_name": "Самоагийн Тусгаар Улс",
+                "id": 882
+            },
+            {
+                "en_name": "Republic of Yemen",
+                "full_name": "Бүгд Найрамдах Йемен Улс",
+                "id": 887
+            },
+            {
+                "en_name": "Republic of Zambia",
+                "full_name": "Бүгд Найрамдах Замби Улс",
+                "id": 894
+            },
+            {
+                "en_name": "-",
+                "full_name": "-",
+                "id": 1000
+            }
+        ]
+    },
+    "status": "success"
+}
